@@ -1,3 +1,5 @@
+[Home](index.md) | [Mission](mission.md) | [Writing](writing.md) | [Policy Memos](policy-memos.md) | [Reading Notes](reading-notes.md) | [About](about.md)
+
 # Reading Notes
 
 This section contains summaries, insights, critiques, and implications from books, reports, papers, and articles.
