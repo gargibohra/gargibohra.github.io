@@ -1,3 +1,5 @@
+[Home](index.md) | [Mission](mission.md) | [Writing](writing.md) | [Policy Memos](policy-memos.md) | [Reading Notes](reading-notes.md) | [About](about.md)
+
 # About
 
 I am an engineer and sustainability professional based in India.
