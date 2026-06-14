@@ -1,19 +1,41 @@
 # Gargi Bohra
 
-Exploring how India can become a nation where every citizen is healthy enough to work, educated enough to choose, skilled enough to contribute, and prosperous enough to live with dignity.
+I'm exploring a question that I expect to spend the next twenty years working on:
 
-## Areas of Study
+**How can India help more people discover, develop, and deploy their potential in ways that improve both their own lives and the nation's future?**
+
+My work sits at the intersection of:
 
 - Education
 - Employment
-- Sustainability
-- Technology
+- Human Capital
+- Urban Development
 - Public Policy
+- Technology
 
-## Writing
+This website is a public record of that journey.
+
+## Current Areas of Study
+
+- Human Capital Development
+- Education Systems
+- Employment and Labour Markets
+- Urban Development
+- State Capacity
+
+## Current Projects
+
+- India100 Knowledge System
+- Career Discovery Platform (Exploration Stage)
+
+## Latest Writing
 
 Coming Soon
 
-## Research Notes
+## Reading Notes
+
+Coming Soon
+
+## Policy Memos
 
 Coming Soon
