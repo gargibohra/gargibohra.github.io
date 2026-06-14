@@ -1,3 +1,5 @@
+[Home](index.md) | [Mission](mission.md) | [Writing](writing.md) | [Policy Memos](policy-memos.md) | [Reading Notes](reading-notes.md) | [About](about.md)
+
 # Mission
 
 I am exploring a question that I expect to spend the next twenty years working on:
