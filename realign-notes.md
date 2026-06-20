@@ -1,5 +1,4 @@
-[Home](index.md) | [Realign Notes](realign-notes.md) | [Policy Memos](policy-memos.md) | [Reading Notes](reading-notes.md) | [About](about.md)
-
+[Home](index.md) | [Realign Notes](realign-notes.md) | [Policy Memos](policy-memos.md) | [Reading Notes](reading-notes.md) 
 # Realign Notes
 
 This section contains essays, articles, and reflections developed during my research journey.
