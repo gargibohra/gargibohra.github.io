@@ -1,5 +1,4 @@
 [Home](index.md) | [Realign Notes](realign-notes.md) | [Policy Memos](policy-memos.md) | [Reading Notes](reading-notes.md) 
-
 # Reading Notes
 
 This section contains summaries, insights, critiques, and implications from books, reports, papers, and articles.
