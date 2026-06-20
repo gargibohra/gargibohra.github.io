@@ -1,4 +1,4 @@
-# Realign Note #001
+## Realign Note #001
 
 # Can Human Capital Thrive Without a Shared National Narrative?
 Camouflaging: How do we align individual aspirations with collective progress without coercion?
