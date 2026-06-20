@@ -1,6 +1,6 @@
 ### Realign Note #001
 
-# Can Human Capital Thrive Without a Shared National Narrative?
+# What Motivates a Nation?
 Camouflaging: How do we align individual aspirations with collective progress without coercion?
 
 Date: 21 June 2026
