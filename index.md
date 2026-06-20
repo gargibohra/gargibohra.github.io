@@ -38,14 +38,6 @@ Regardless of the form it takes, the objective remains the same:
 
 **To help more people discover, develop, and deploy their potential in service of both individual flourishing and national development.**
 
-**My work sits at the intersection of:**
-- Education
-- Employment
-- Human Capital
-- Urban Development
-- Public Policy
-- Technology
-
 This website is a public record of that journey.
 
 ## Current Areas of Study
