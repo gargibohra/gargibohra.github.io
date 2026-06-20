@@ -1,5 +1,7 @@
 [Home](index.md) | [Realign Notes](realign-notes.md) | [Policy Memos](policy-memos.md) | [Reading Notes](reading-notes.md) 
-![Github Main Page Cover pic](https://github.com/gargibohra/gargibohra.github.io/blob/164f6faacf4e3b4eff98aaf78b18cd8f0bf4765a/assets/images/GithubPageCoverPic_Gargi.png)
+
+!(https://github.com/gargibohra/gargibohra.github.io/blob/164f6faacf4e3b4eff98aaf78b18cd8f0bf4765a/assets/images/GithubPageCoverPic_Gargi.png)
+
 I am an engineer and sustainability professional based in India.<br>
 I'm exploring a question that I expect to spend the next twenty years working on:
 
