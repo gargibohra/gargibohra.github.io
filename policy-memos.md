@@ -1,5 +1,4 @@
 [Home](index.md) | [Realign Notes](realign-notes.md) | [Policy Memos](policy-memos.md) | [Reading Notes](reading-notes.md)
-
 # Policy Memos
 
 This section contains practical, evidence-based proposals focused on human capital, education, employment, and quality of life.
