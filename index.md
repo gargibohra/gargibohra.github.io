@@ -1,5 +1,6 @@
-[Home](index.md) | [Realign Notes](realign-notes.md) | [Policy Memos](policy-memos.md) | [Reading Notes](reading-notes.md) | [About](about.md)
+[Home](index.md) | [Realign Notes](realign-notes.md) | [Policy Memos](policy-memos.md) | [Reading Notes](reading-notes.md) 
 
+I am an engineer and sustainability professional based in India.<br>
 I'm exploring a question that I expect to spend the next twenty years working on:
 
 **How can India help more people discover, develop, and deploy their potential in ways that improve both their own lives and the nation's future?**
