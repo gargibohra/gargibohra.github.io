@@ -1,9 +1,9 @@
-## Realign Note #001
+### Realign Note #001
 
 # Can Human Capital Thrive Without a Shared National Narrative?
 Camouflaging: How do we align individual aspirations with collective progress without coercion?
 
-Date: 20 June 2026
+Date: 21 June 2026
 
 ## What Prompted This Note? 
 
@@ -18,8 +18,6 @@ Together, they pulled me toward the same question:
 
 What motivates a nation?
 
----
-
 ## Flow of Thought
 > Nation Building?
 > ->
@@ -28,8 +26,6 @@ What motivates a nation?
 > Motivation?
 > ->
 > Narrative!
-
----
 
 ## Reflection
 
@@ -92,7 +88,6 @@ What does a developed India actually feel like?
 And what role does each of us play in that journey?
 
 I suspect these questions will continue appearing throughout future Realign Notes.
-⸻
 
 ## Current Hypothesis
 Perhaps human capital development is not only a skills problem.<br>
@@ -106,17 +101,12 @@ People invest effort when they believe their effort contributes to something wor
 
 Maybe nations do too.
 
-⸻
-
 ## Questions I’m Exploring
-
 1. Can human capital development succeed without a shared societal narrative? 
 2. What motivates people to contribute beyond immediate self-interest? 
 3. Can democracies create collective purpose without demanding conformity? 
 4. What stories successfully mobilize societies? 
 5. What should India’s story be at 100? 
-
-⸻
 
 ## Themes
 * Human Capital
