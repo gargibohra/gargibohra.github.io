@@ -12,7 +12,7 @@ Recently, I found myself reading two very different pieces back-to-back:<br>
 David Oks, [Why China Got Rich and India Didn't](https://davidoks.blog/p/why-china-got-rich-and-india-didnt)<br> 
 Jyoti Vij, [PM-VBRY: Building the Workforce for Viksit Bharat '47](https://www.magzter.com/stories/newspaper/The-New-Indian-Express-Bengaluru/PMVBRY-BUILDING-THE-WORKFORCE-FOR-VIKSIT-BHARAT-47?srsltid=AfmBOory7LiQVTvw2SAPo2Zvt2Uu2I2IkkRtwMy19BRXPlcwckUp7HON)
 
-The first article argues that China’s growth story began long before market liberalization. According to the author, the real divergence was that China transformed its human capital and social structures decades before opening its markets—often through methods that were extraordinarily coercive and brutal.
+The first article argues that China’s growth story began long before market liberalization. According to the author, the real divergence was that China transformed its human capital and social structures decades before opening its markets, often through methods that were extraordinarily coercive and brutal.
 
 The second piece focuses on India’s current workforce ambitions for Viksit Bharat 2047. 
 Together, they pulled me toward the same question:
