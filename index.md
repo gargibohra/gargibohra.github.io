@@ -1,7 +1,5 @@
 [Home](index.md) | [Mission](mission.md) | [Realign Notes](realign-notes.md) | [Policy Memos](policy-memos.md) | [Reading Notes](reading-notes.md) | [About](about.md)
 
-# Gargi Bohra
-
 I'm exploring a question that I expect to spend the next twenty years working on:
 
 **How can India help more people discover, develop, and deploy their potential in ways that improve both their own lives and the nation's future?**
