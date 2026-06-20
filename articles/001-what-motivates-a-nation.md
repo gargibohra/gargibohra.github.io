@@ -1,3 +1,4 @@
+![Realign Note 001 Banner](/assets/images/note-001-banner.png)
 ### Realign Note #001
 
 # What Motivates a Nation?
