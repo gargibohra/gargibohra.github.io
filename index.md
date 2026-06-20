@@ -7,7 +7,7 @@ I'm exploring a question that I expect to spend the next twenty years working on
 
 **How can India help more people discover, develop, and deploy their potential in ways that improve both their own lives and the nation's future?**
 
-## Why This Matters
+## Why This Matters (to me)
 
 India possesses one of the largest concentrations of human potential in the world. Yet millions of young people spend years in education systems that do not adequately prepare them to understand themselves, explore meaningful career paths, or navigate the realities of the labour market.
 
